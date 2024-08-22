@@ -1,0 +1,23 @@
+@media (max-width:992px) {
+    .instructors .container .row .col-lg-6{
+        margin-top: 40px;
+    }
+}
+
+@media (max-width:576px) {
+    .instructors h1{
+        font-size: 40px;
+    }
+    .apps h1{
+        font-size: 40px;
+    }
+    .apps .col-lg-6 .form .col2 .inp1 {
+        width: 200px;
+    }
+    .apps .gplay button {
+        width: 42%;
+    }
+    .contact h1{
+        font-size: 40px;
+    }
+}
