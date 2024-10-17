@@ -25,5 +25,5 @@ A responsive web application built using Bootstrap that showcases the framework'
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bootstrap-project.git
-   cd bootstrap-project
+   git clone https://github.com/Rajan-Shr/Bootstrap_Project
+   cd Bootstrap_Project
